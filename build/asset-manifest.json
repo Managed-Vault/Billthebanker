@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/billythebanker/static/css/main.ad0f2eda.css",
+    "main.js": "/billythebanker/static/js/main.779393e1.js",
+    "static/js/453.1b7664b2.chunk.js": "/billythebanker/static/js/453.1b7664b2.chunk.js",
+    "index.html": "/billythebanker/index.html",
+    "main.ad0f2eda.css.map": "/billythebanker/static/css/main.ad0f2eda.css.map",
+    "main.779393e1.js.map": "/billythebanker/static/js/main.779393e1.js.map",
+    "453.1b7664b2.chunk.js.map": "/billythebanker/static/js/453.1b7664b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad0f2eda.css",
+    "static/js/main.779393e1.js"
+  ]
+}
